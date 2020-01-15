@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = ssh -T git@github.com
-	name = ssh -T git@github.com
+	email = hugopcveloso@gmail.com
+	name = Hugo Veloso
